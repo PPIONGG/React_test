@@ -18,6 +18,7 @@ function App() {
   return (
     <div className="App">
  <Clip/>
+ 5555
  {/* <Reduces/> */}
   {/* <Calendar/> */}
     </div>
