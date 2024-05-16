@@ -15,7 +15,7 @@ import Calendar from "./component/calendar/Calendar";
 function App() {
   return (
     <div className="App">
-      <Clip />1{/* <Reduces/> */}
+      <Clip />1 2345{/* <Reduces/> */}
       {/* <Calendar/> */}
     </div>
   );
