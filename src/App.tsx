@@ -20,9 +20,6 @@ function App() {
  {/* <Clip/> */}
  {/* <Reduces/> */}
   {/* <Calendar/> */}
-  <div>
-    ABCDEFG กขคง 
-  </div>
     </div>
   );
 }
