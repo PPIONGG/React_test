@@ -1,24 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import logo from "./assets/logo.png";
+import Paper from "@mui/material/Paper";
+import Table from "@mui/material/Table";
+import TableBody from "@mui/material/TableBody";
+import TableCell from "@mui/material/TableCell";
+import TableContainer from "@mui/material/TableContainer";
+import TableHead from "@mui/material/TableHead";
+import TableRow from "@mui/material/TableRow";
+import { useEffect, useState } from "react";
+import Clip from "./component/imgclip/clip";
+import Reduces from "./component/reduce/reduces";
+import Calendar from "./component/calendar/Calendar";
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+ {/* <Clip/> */}
+ {/* <Reduces/> */}
+  {/* <Calendar/> */}
+  <div>
+    ABCDEFG กขคง 
+  </div>
     </div>
   );
 }
