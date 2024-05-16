@@ -4,7 +4,7 @@
   cursor: pointer;
 }
 
-/* @media screen and (max-width: 1230px) {
+@media screen and (max-width: 1230px) {
   .myImglogo {
     background-color: yellowgreen;
   }
@@ -26,4 +26,4 @@
   .myImglogo {
     background-color: blue;
   }
-} */
+}
