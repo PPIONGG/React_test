@@ -12,14 +12,11 @@ import Clip from "./component/imgclip/clip";
 import Reduces from "./component/reduce/reduces";
 import Calendar from "./component/calendar/Calendar";
 
-
 function App() {
-
   return (
     <div className="App">
- <Clip/>
- {/* <Reduces/> */}
-  {/* <Calendar/> */}
+      <Clip />1{/* <Reduces/> */}
+      {/* <Calendar/> */}
     </div>
   );
 }
